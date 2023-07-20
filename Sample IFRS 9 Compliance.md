@@ -1,0 +1,19 @@
+**Sample IFRS 9 Compliance Tracking Table:**
+
+| Requirement                    | Description                                         | Measurement Method       | Recognition Criteria               | Reporting Frequency | Responsible Department | Status       |
+|--------------------------------|-----------------------------------------------------|-------------------------|------------------------------------|---------------------|------------------------|--------------|
+| **Classification and Measurement**|                                                     |                         |                                    |                     |                        |              |
+| Classification of Financial Instruments| Categorization of financial instruments based on contractual cash flow characteristics and business model | Amortized Cost / Fair Value through OCI / Fair Value through P&L | Meets criteria for each category | Annually            | Accounting             | In Compliance|
+| **Impairment**                 |                                                     |                         |                                    |                     |                        |              |
+| Stage 1                          | Financial instruments with low credit risk and no significant increase in credit risk | Expected Credit Loss (ECL)  | Significant increase in credit risk | Quarterly           | Risk Management        | In Compliance|
+| Stage 2                          | Financial instruments with significant increase in credit risk since initial recognition | ECL                       | Objective evidence of credit impairment | Quarterly           | Risk Management        | In Compliance|
+| Stage 3                          | Financial instruments that are credit-impaired     | ECL                       | Credit-impaired at the reporting date | Quarterly           | Risk Management        | In Compliance|
+| Calculation of ECL             | Determination of expected credit losses based on historical data, forward-looking information, and various scenarios | Probability-weighted scenarios / PD/LGD approach | N/A                                | Monthly             | Risk Management        | In Compliance|
+| **Hedge Accounting**           |                                                     |                         |                                    |                     |                        |              |
+| Hedge Effectiveness Assessment   | Evaluation of hedge effectiveness using quantitative and qualitative methods | Retrospective / Prospective   | Meets hedge effectiveness criteria | Quarterly           | Accounting             | In Compliance|
+| Hedge Documentation             | Proper documentation of hedging relationships      | N/A                     | N/A                                | Annually            | Accounting             | In Compliance|
+| **Disclosures**                 |                                                     |                         |                                    |                     |                        |              |
+| Financial Instruments Disclosures| Comprehensive disclosure of financial instruments and related risks | N/A                     | N/A                                | Annually            | Finance                | In Compliance|
+| Impairment Disclosures          | Detailed disclosure of impairment methodology, significant assumptions, and changes in ECL | N/A                     | N/A                                | Semi-Annually       | Risk Management        | In Compliance|
+| Hedge Accounting Disclosures    | Transparent disclosure of hedging activities, hedge effectiveness, and risk management strategy | N/A                     | N/A                                | Semi-Annually       | Accounting             | In Compliance|
+
